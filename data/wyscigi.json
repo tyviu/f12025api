@@ -1,0 +1,119 @@
+{
+  "races": [
+    {
+      "raceName": "Grand Prix of Bahrain",
+      "date": "2025-03-02",
+      "time": "13:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Saudi Arabia",
+      "date": "2025-03-09",
+      "time": "18:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Australia",
+      "date": "2025-03-23",
+      "time": "06:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of China",
+      "date": "2025-04-06",
+      "time": "08:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Azerbaijan",
+      "date": "2025-04-20",
+      "time": "12:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Miami",
+      "date": "2025-05-04",
+      "time": "19:30 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Emilia Romagna",
+      "date": "2025-05-18",
+      "time": "14:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Monaco",
+      "date": "2025-05-25",
+      "time": "14:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Spain",
+      "date": "2025-06-08",
+      "time": "13:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Canada",
+      "date": "2025-06-15",
+      "time": "19:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Austria",
+      "date": "2025-06-29",
+      "time": "13:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Great Britain",
+      "date": "2025-07-06",
+      "time": "13:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Hungary",
+      "date": "2025-07-20",
+      "time": "13:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Belgium",
+      "date": "2025-08-03",
+      "time": "13:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Netherlands",
+      "date": "2025-08-10",
+      "time": "13:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Italy",
+      "date": "2025-08-31",
+      "time": "13:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Singapore",
+      "date": "2025-09-14",
+      "time": "12:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Japan",
+      "date": "2025-09-28",
+      "time": "05:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Qatar",
+      "date": "2025-10-05",
+      "time": "13:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of United States",
+      "date": "2025-10-19",
+      "time": "20:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Mexico",
+      "date": "2025-10-26",
+      "time": "20:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Brazil",
+      "date": "2025-11-02",
+      "time": "18:00 UTC"
+    },
+    {
+      "raceName": "Grand Prix of Abu Dhabi",
+      "date": "2025-11-30",
+      "time": "13:00 UTC"
+    }
+  ]
+}
