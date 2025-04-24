@@ -1,0 +1,17 @@
+# Pliki i foldery, które mają być ignorowane
+
+# Folder z plikami środowiskowymi
+.env
+
+# Wszelkie pliki lub foldery, które mogą zawierać dane tymczasowe
+*.log
+*.bak
+*.swp
+*.DS_Store
+
+# Wszelkie pliki wygenerowane przez IDE (np. VS Code, PyCharm)
+.vscode/
+.idea/
+
+# Inne lokalne pliki, które nie są potrzebne w repozytorium
+__pycache__/
