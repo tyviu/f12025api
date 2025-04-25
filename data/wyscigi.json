@@ -1,19 +1,14 @@
 {
   "races": [
     {
-      "raceName": "Grand Prix Bahrajnu",
-      "date": "2025-03-02",
-      "time": "16:00"
-    },
-    {
-      "raceName": "Grand Prix Arabii Saudyjskiej",
-      "date": "2025-03-09",
-      "time": "18:00"
-    },
-    {
       "raceName": "Grand Prix Australii",
-      "date": "2025-03-23",
+      "date": "2025-03-016",
       "time": "05:00"
+    },
+    {
+      "raceName": "Grand Prix Chin",
+      "date": "2025-03-23",
+      "time": "08.00"
     },
     {
       "raceName": "Grand Prix Japonii",
@@ -21,14 +16,19 @@
       "time": "07:00"
     },
     {
-      "raceName": "Grand Prix Chin",
+      "raceName": "Grand Prix Bahrainu",
+      "date": "2025-04-13",
+      "time": "17:00"
+    },
+    {
+      "raceName": "Grand Prix Arabii Saudyjskiej",
       "date": "2025-04-20",
-      "time": "09:00"
+      "time": "19:00"
     },
     {
       "raceName": "Grand Prix Miami",
       "date": "2025-05-04",
-      "time": "22:30"
+      "time": "22:00"
     },
     {
       "raceName": "Grand Prix Emilii-Romanii",
@@ -41,14 +41,14 @@
       "time": "15:00"
     },
     {
-      "raceName": "Grand Prix Kanady",
-      "date": "2025-06-08",
-      "time": "20:00"
+      "raceName": "Grand Prix Hiszpanii",
+      "date": "2025-06-01",
+      "time": "15:00"
     },
     {
-      "raceName": "Grand Prix Hiszpanii",
-      "date": "2025-06-22",
-      "time": "15:00"
+      "raceName": "Grand Prix Kanady",
+      "date": "2025-06-15",
+      "time": "20:00"
     },
     {
       "raceName": "Grand Prix Austrii",
@@ -61,18 +61,18 @@
       "time": "16:00"
     },
     {
-      "raceName": "Grand Prix Węgier",
-      "date": "2025-07-20",
-      "time": "15:00"
-    },
-    {
       "raceName": "Grand Prix Belgii",
       "date": "2025-07-27",
       "time": "15:00"
     },
     {
+      "raceName": "Grand Prix Węgier",
+      "date": "2025-08-03",
+      "time": "15:00"
+    },
+    {
       "raceName": "Grand Prix Holandii",
-      "date": "2025-08-24",
+      "date": "2025-09-07",
       "time": "15:00"
     },
     {
@@ -82,23 +82,23 @@
     },
     {
       "raceName": "Grand Prix Azerbejdżanu",
-      "date": "2025-09-14",
+      "date": "2025-09-21",
       "time": "13:00"
     },
     {
       "raceName": "Grand Prix Singapuru",
-      "date": "2025-09-21",
+      "date": "2025-10-05",
       "time": "14:00"
     },
     {
       "raceName": "Grand Prix USA (Austin)",
-      "date": "2025-10-05",
+      "date": "2025-10-19",
       "time": "21:00"
     },
     {
       "raceName": "Grand Prix Meksyku",
       "date": "2025-10-26",
-      "time": "20:00"
+      "time": "21:00"
     },
     {
       "raceName": "Grand Prix Brazylii",
@@ -108,12 +108,17 @@
     {
       "raceName": "Grand Prix Las Vegas",
       "date": "2025-11-23",
-      "time": "07:00"
+      "time": "05:00"
+    },
+     {
+      "raceName": "Grand Prix Kataru",
+      "date": "2025-11-30",
+      "time": "17:00"
     },
     {
       "raceName": "Grand Prix Abu Zabi",
-      "date": "2025-11-30",
-      "time": "13:00"
+      "date": "2025-12-07",
+      "time": "14:00"
     }
   ]
 }
