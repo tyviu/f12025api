@@ -6,6 +6,11 @@
       "time": "05:00"
     },
     {
+      "raceName": "China Sprint",
+      "date": "2025-03-22",
+      "time": "05:00"
+    },
+    {
       "raceName": "Grand Prix Chin",
       "date": "2025-03-23",
       "time": "08:00"
@@ -24,6 +29,11 @@
       "raceName": "Grand Prix Arabii Saudyjskiej",
       "date": "2025-04-20",
       "time": "19:00"
+    },
+    {
+      "raceName": "Miami Sprint",
+      "date": "2025-05-03",
+      "time": "12:00"
     },
     {
       "raceName": "Grand Prix Miami",
@@ -61,6 +71,11 @@
       "time": "16:00"
     },
     {
+      "raceName": "Belgium Sprint",
+      "date": "2025-07-26",
+      "time": "12:00"
+    },
+    {
       "raceName": "Grand Prix Belgii",
       "date": "2025-07-27",
       "time": "15:00"
@@ -91,6 +106,11 @@
       "time": "14:00"
     },
     {
+      "raceName": "USA (Austin) Sprint",
+      "date": "2025-10-18",
+      "time": "19:00"
+    },
+    {
       "raceName": "Grand Prix USA (Austin)",
       "date": "2025-10-19",
       "time": "21:00"
@@ -101,6 +121,11 @@
       "time": "21:00"
     },
     {
+      "raceName": "Brazylia Sprint",
+      "date": "2025-11-08",
+      "time": "15:00"
+    },
+    {
       "raceName": "Grand Prix Brazylii",
       "date": "2025-11-09",
       "time": "18:00"
@@ -109,6 +134,11 @@
       "raceName": "Grand Prix Las Vegas",
       "date": "2025-11-23",
       "time": "05:00"
+    },
+    {
+      "raceName": "Katar Sprint",
+      "date": "2025-11-29",
+      "time": "15:00"
     },
      {
       "raceName": "Grand Prix Kataru",
